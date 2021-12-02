@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ibrahima-c/reactjs-redux-calculator/static/css/main.2be77806.chunk.css",
+    "main.js": "/ibrahima-c/reactjs-redux-calculator/static/js/main.c46a82d5.chunk.js",
+    "main.js.map": "/ibrahima-c/reactjs-redux-calculator/static/js/main.c46a82d5.chunk.js.map",
+    "runtime-main.js": "/ibrahima-c/reactjs-redux-calculator/static/js/runtime-main.b3efec59.js",
+    "runtime-main.js.map": "/ibrahima-c/reactjs-redux-calculator/static/js/runtime-main.b3efec59.js.map",
+    "static/js/2.dcf320d1.chunk.js": "/ibrahima-c/reactjs-redux-calculator/static/js/2.dcf320d1.chunk.js",
+    "static/js/2.dcf320d1.chunk.js.map": "/ibrahima-c/reactjs-redux-calculator/static/js/2.dcf320d1.chunk.js.map",
+    "index.html": "/ibrahima-c/reactjs-redux-calculator/index.html",
+    "static/css/main.2be77806.chunk.css.map": "/ibrahima-c/reactjs-redux-calculator/static/css/main.2be77806.chunk.css.map",
+    "static/js/2.dcf320d1.chunk.js.LICENSE.txt": "/ibrahima-c/reactjs-redux-calculator/static/js/2.dcf320d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3efec59.js",
+    "static/js/2.dcf320d1.chunk.js",
+    "static/css/main.2be77806.chunk.css",
+    "static/js/main.c46a82d5.chunk.js"
+  ]
+}
